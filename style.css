@@ -45,8 +45,11 @@ h1{
     max-height: 100%;
     max-width: 100%;
 }
-footer{
+.footer{
     background-color: black;
     color: bisque;
     text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }
